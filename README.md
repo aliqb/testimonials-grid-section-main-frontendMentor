@@ -22,7 +22,7 @@ simple layout for testimonials.
 
 ### Links
 
-- Solution URL: [solution](https://https://www.frontendmentor.io/solutions/responsive-testimonialsgridsection-with-gird-and-flexbox-PKhM-YL69)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-testimonialsgridsection-with-gird-and-flexbox-PKhM-YL69)
 - Live Site URL: [live in vercel](https://testimonials-grid-section-main-frontend-mentor-six.vercel.app/)
 
 

@@ -22,8 +22,8 @@ simple layout for testimonials.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://https://www.frontendmentor.io/solutions/responsive-testimonialsgridsection-with-gird-and-flexbox-PKhM-YL69)
+- Live Site URL: [live in vercel](https://testimonials-grid-section-main-frontend-mentor-six.vercel.app/)
 
 
 ### Built with
